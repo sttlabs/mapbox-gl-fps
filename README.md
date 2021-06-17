@@ -4,6 +4,11 @@ A frames-per-seconds measurer and GUI control
 
 ![Example of GUI FPS counter and report data](mapbox-gl-fps-screenshot.png "Screenshot of Map with FPS Control and report")
 
+## Install 
+```
+npm install @sttlabs/mapbox-gl-fps@1.0.0
+```
+
 ## Classes
 
 - class `FPSMeasurer` - An non-dependent class for measuring FPS and calculating stats.
