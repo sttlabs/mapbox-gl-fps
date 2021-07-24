@@ -1,11 +1,8 @@
 {
-  "name": "@sttlabs/mapbox-gl-fps",
+  "name": "mapbox-gl-fps",
   "version": "1.0.0",
   "description": "Measure and display FPS for a Mapbox GL JS map",
   "main": "lib/library.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "build": "webpack --env build",
     "dev": "webpack --progress --colors --watch --env dev",

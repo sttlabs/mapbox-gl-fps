@@ -12,7 +12,7 @@ A frames-per-seconds measurer and GUI control
 ## Example with GUI Control
 
 ```js
-import { FPSControl } from "@sttlabs/mapbox-gl-fps/lib/MapboxFPS.min";
+import { FPSControl } from "mapbox-gl-fps/lib/MapboxFPS.min";
 var fpsControl = new FPSControl();
 myMap.addControl(fpsControl, "top-right");
 
